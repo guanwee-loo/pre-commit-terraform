@@ -1,0 +1,1 @@
+podman build -t pre-commit-terraform-talisman --build-arg INSTALL_ALL=true -f Containerfile .

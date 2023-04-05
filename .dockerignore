@@ -1,4 +1,5 @@
 *
 !.dockerignore
 !Dockerfile
-!tools/entrypoint.sh
+!tools/*.sh
+!tools/*.bash
